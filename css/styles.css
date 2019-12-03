@@ -6,6 +6,8 @@ h1{
 }
 body{
   background-color: Yellow;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 
 .line-style{
